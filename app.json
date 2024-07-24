@@ -54,7 +54,7 @@
     "BOT_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"private",
+      "value":"public",
       "required":false
     }
         ,
